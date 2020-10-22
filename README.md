@@ -11,4 +11,4 @@ Currently, I am a Ph.D. student at Arizona State University, working at the cros
 
 [[Apple Podcasts](https://podcasts.apple.com/us/podcast/jay-shahs-podcast/id1532301544)] -|- [[Spotify](https://open.spotify.com/show/2eM5uYxigx5sgWFPrIbH0n)] -|- [[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMzU5MDAxLnJzcw==)] -|- [[Overcast](https://overcast.fm/itunes1532301544)] -|- [[Amazon Music](https://music.amazon.com/podcasts/21b65329-e86e-47e8-be21-83e92dfe579f/Jay-Shahs-Podcast)]
 
-Feel free to visit my :house_with_graden: homepage with a list of academic and extracurricular activities I am particularly proud of: [https://jaygshah.github.io/](https://jaygshah.github.io/)
+Feel free to visit my :house_with_garden: homepage with a list of academic and extracurricular activities I am particularly proud of: [https://jaygshah.github.io/](https://jaygshah.github.io/)
