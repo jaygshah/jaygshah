@@ -1,4 +1,4 @@
-# Jay Shah :tea: :violin: :cactus:
+# Jay Shah :tea: :violin: :cactus: karate
 
 Currently, I am a Ph.D. student at Arizona State University, working at the cross-section of Deep Learning and Medical Imaging. 
 
