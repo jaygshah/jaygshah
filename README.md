@@ -1,6 +1,6 @@
 # Jay Shah :tea: :violin: :cactus: 🥋 
 
-Currently, I am a Ph.D. student at Arizona State University, working at the cross-section of Deep Learning and Medical Imaging. 
+I am a Ph.D. student at Arizona State University, working at the cross-section of Deep Learning and Medical Imaging. 
 
 | <a href="https://www.youtube.com/channel/UCdZ0GX-F3ULMKfxtyzSFbaw"><img src="https://github.com/jaygshah/jaygshah/blob/main/jay-podcast-1.png" width="200">| <b> I also host a podcast on [YouTube](https://www.youtube.com/channel/UCdZ0GX-F3ULMKfxtyzSFbaw/featured) where I talk with young CS engineers exploring different applications of Machine Learning in industry & academia and their insights on getting started with it.</b> |
 |---|---|
